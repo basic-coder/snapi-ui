@@ -1,0 +1,20 @@
+// @ts-nocheck -- skip type checking
+import * as meta_0 from "../content/docs/meta.json?collection=meta&hash=1748125637613"
+import * as docs_13 from "../content/docs/components/tabs.mdx?collection=docs&hash=1748125637613"
+import * as docs_12 from "../content/docs/components/progress.mdx?collection=docs&hash=1748125637613"
+import * as docs_11 from "../content/docs/components/navigation.mdx?collection=docs&hash=1748125637613"
+import * as docs_10 from "../content/docs/components/modals.mdx?collection=docs&hash=1748125637613"
+import * as docs_9 from "../content/docs/components/loading.mdx?collection=docs&hash=1748125637613"
+import * as docs_8 from "../content/docs/components/inputs.mdx?collection=docs&hash=1748125637613"
+import * as docs_7 from "../content/docs/components/dropdowns.mdx?collection=docs&hash=1748125637613"
+import * as docs_6 from "../content/docs/components/cards.mdx?collection=docs&hash=1748125637613"
+import * as docs_5 from "../content/docs/components/badges.mdx?collection=docs&hash=1748125637613"
+import * as docs_4 from "../content/docs/components/backgrounds.mdx?collection=docs&hash=1748125637613"
+import * as docs_3 from "../content/docs/components/avatars.mdx?collection=docs&hash=1748125637613"
+import * as docs_2 from "../content/docs/components/alert.mdx?collection=docs&hash=1748125637613"
+import * as docs_1 from "../content/docs/components/ai-input.mdx?collection=docs&hash=1748125637613"
+import * as docs_0 from "../content/docs/index.mdx?collection=docs&hash=1748125637613"
+import { _runtime } from "fumadocs-mdx"
+import * as _source from "../source.config"
+export const docs = _runtime.doc<typeof _source.docs>([{ info: {"path":"index.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/index.mdx"}, data: docs_0 }, { info: {"path":"components\\ai-input.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/ai-input.mdx"}, data: docs_1 }, { info: {"path":"components\\alert.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/alert.mdx"}, data: docs_2 }, { info: {"path":"components\\avatars.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/avatars.mdx"}, data: docs_3 }, { info: {"path":"components\\backgrounds.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/backgrounds.mdx"}, data: docs_4 }, { info: {"path":"components\\badges.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/badges.mdx"}, data: docs_5 }, { info: {"path":"components\\cards.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/cards.mdx"}, data: docs_6 }, { info: {"path":"components\\dropdowns.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/dropdowns.mdx"}, data: docs_7 }, { info: {"path":"components\\inputs.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/inputs.mdx"}, data: docs_8 }, { info: {"path":"components\\loading.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/loading.mdx"}, data: docs_9 }, { info: {"path":"components\\modals.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/modals.mdx"}, data: docs_10 }, { info: {"path":"components\\navigation.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/navigation.mdx"}, data: docs_11 }, { info: {"path":"components\\progress.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/progress.mdx"}, data: docs_12 }, { info: {"path":"components\\tabs.mdx","absolutePath":"D:/personal/snapi-ui/content/docs/components/tabs.mdx"}, data: docs_13 }]);
+export const meta = _runtime.meta<typeof _source.meta>([{ info: {"path":"meta.json","absolutePath":"D:/personal/snapi-ui/content/docs/meta.json"}, data: meta_0 }]);
