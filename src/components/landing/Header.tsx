@@ -76,7 +76,7 @@ const Header = (props: Props) => {
                                         <ViewTransitionLink className='text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors' href={"/docs"}>
                                             Components
                                         </ViewTransitionLink>
-                                        <ViewTransitionLink className='text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors' href={"/pricing"}>
+                                        {/* <ViewTransitionLink className='text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors' href={"/pricing"}>
                                             Pricing
                                         </ViewTransitionLink>
                                         <ViewTransitionLink className=' flex text-sm items-center gap-2 text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors' href={"#"} target='_blank'>
@@ -84,7 +84,7 @@ const Header = (props: Props) => {
                                             <Badge variant='brand'>
                                                 new
                                             </Badge>
-                                        </ViewTransitionLink>
+                                        </ViewTransitionLink> */}
                                     </div>
 
                                 </div>
