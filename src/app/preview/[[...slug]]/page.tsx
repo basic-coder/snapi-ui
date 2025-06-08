@@ -34,7 +34,7 @@ export default async function PreviewPage({
     try {
         const Component = dynamic(
             () =>
-                import(`@/snapiui/${componentName}`).catch(() =>
+                import(`../../../components/snapiui/${componentName}`).catch(() =>
                     notFound()
                 ),
             { ssr: true }
