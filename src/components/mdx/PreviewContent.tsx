@@ -147,7 +147,7 @@ const PreviewContent = ({ link, prePath, isBlock }: Props) => {
 
 
                     <div className="flex items-center gap-2">
-                        <OpenInV0Button name={openInV0()} />
+                        {/* <OpenInV0Button name={openInV0()} /> */}
                         <Button
                             ref={terminalButtonRef} onClick={handleTerminalClick} variant={"ghost"} size={"sm"} className={cn(
                                 "relative overflow-hidden", "h-7 py-3 text-xs font-medium", "bg-black dark:bg-white", "text-white dark:text-black", "hover:bg-black/90 dark:hover:bg-white/90", "hover:text-white dark:text-black", "transition-all duration-200", "group flex items-center gap-1", "rounded-lg", "shadow-none"
