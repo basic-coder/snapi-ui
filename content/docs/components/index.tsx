@@ -1,12 +1,9 @@
-import AiInput01 from "../../../src/components/snapiui/ai-input/ai-input-01";
-import React from 'react'
+import Nav01 from "../../../src/components/snapiui/navigations";
 
+<Preview link="navigation/nav-01">
+    <Nav01 />
+</Preview>
 
-const index = () => {
-  return (
-    <div><AiInput01 /></div>
-  )
-}
 
 
 export default index

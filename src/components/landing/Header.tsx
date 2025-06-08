@@ -73,7 +73,7 @@ const Header = (props: Props) => {
                                     {/* Desktop nav */}
 
                                     <div className=" flex items-center gap-2 w-full ">
-                                        <ViewTransitionLink className='text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors' href={"/docs/components/background-paths"}>
+                                        <ViewTransitionLink className='text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors' href={"/docs"}>
                                             Components
                                         </ViewTransitionLink>
                                         <ViewTransitionLink className='text-sm text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 transition-colors' href={"/pricing"}>
