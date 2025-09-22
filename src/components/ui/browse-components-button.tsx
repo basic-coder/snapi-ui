@@ -11,7 +11,7 @@ type Props = {}
 const
     BrowserComponentsButton = (props: Props) => {
         return (
-            <Link href={"/docs/components/action-search-bar"}>
+            <Link href={"/docs"}>
                 <motion.div initial={{x:200, opacity:0}}
                     animate={{x:0 ,opacity:1,transition:{duration:0.2}}}
                     whileHover={{x:5,transition:{duration:0.2}}}

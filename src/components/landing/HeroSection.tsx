@@ -56,7 +56,7 @@ const HeroSection = (props: Props) => {
           </span>
           <div className="flex flex-col sm:flex-row item-start sm:items-center justify-start gap-3">
             <BrowserComponentsButton />
-            <BrowserBlocksButton />
+            {/* <BrowserBlocksButton /> */}
           </div>
         </motion.div>
 
